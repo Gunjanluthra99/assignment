@@ -1,4 +1,4 @@
-# flutter_bloc_article
+# flutter_assignment
 
 A new Flutter application.
 
